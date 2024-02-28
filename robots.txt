@@ -1,0 +1,7 @@
+cd testinghh.github.io/test
+touch robots.txt
+
+User-agent: *
+Allow: /
+
+Sitemap: https://testinghh.github.io/test/sitemap.xml
