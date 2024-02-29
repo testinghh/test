@@ -1,7 +1,11 @@
 <? xml version = "1.0"encoding = "UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>http://ccrscal.xyz/</loc>
+  <loc>https://ccrscal.xyz/</loc>
+  <lastmod>2024-02-29T00:46:50+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1</priority>
+    <loc>https://github.com/testinghh/test/</loc>
   <lastmod>2024-02-29T00:46:50+00:00</lastmod>
   <changefreq>daily</changefreq>
   <priority>1</priority>
