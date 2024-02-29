@@ -1,6 +1,3 @@
-cd testinghh.github.io/test
-touch robots.txt
-
 User-agent: *
 Allow: /
 
